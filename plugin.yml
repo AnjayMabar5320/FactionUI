@@ -1,0 +1,17 @@
+name: FactionUI
+main: AnjayMabar\Main
+author: AnjayMabar5320
+api: 3.0.0
+version: 1.0 - AnjayMabar5320
+
+depend:
+- FactionsPro
+
+softdepend:
+- FormAPI
+
+commands
+  factionui:
+    description: open factionui
+    usage: /factionui
+    aliases: [fui, facui, teamui]
